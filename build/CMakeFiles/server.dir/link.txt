@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/server.dir/acesocktest.cpp.o  -o server  -lACE 

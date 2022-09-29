@@ -1,0 +1,5 @@
+/home/scutech/code/ace/build/CMakeFiles/rebuild_cache.dir
+/home/scutech/code/ace/build/CMakeFiles/edit_cache.dir
+/home/scutech/code/ace/build/CMakeFiles/client.dir
+/home/scutech/code/ace/build/CMakeFiles/server.dir
+/home/scutech/code/ace/build/CMakeFiles/main.dir

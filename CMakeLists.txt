@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(ACE VERSION 0.1.0)
+link_libraries(ACE)
+add_executable(main main.cpp)
+add_executable(server acesocktest.cpp)
+add_executable(client acesocketclient.cpp)

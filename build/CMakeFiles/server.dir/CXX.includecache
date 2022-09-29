@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scutech/code/ace/acesocktest.cpp
+ace/SOCK_Acceptor.h
+-
+ace/SOCK_Stream.h
+-
+ace/Log_Msg.h
+-
+

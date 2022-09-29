@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/scutech/code/ace/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/client.dir/acesocketclient.cpp.o -c /home/scutech/code/ace/acesocketclient.cpp",
+  "file": "/home/scutech/code/ace/acesocketclient.cpp"
+},
+{
+  "directory": "/home/scutech/code/ace/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/server.dir/acesocktest.cpp.o -c /home/scutech/code/ace/acesocktest.cpp",
+  "file": "/home/scutech/code/ace/acesocktest.cpp"
+},
+{
+  "directory": "/home/scutech/code/ace/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/scutech/code/ace/main.cpp",
+  "file": "/home/scutech/code/ace/main.cpp"
+}
+]
